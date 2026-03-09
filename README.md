@@ -31,7 +31,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
     "archery": {
       "command": "uvx",
       "args": [
-        "--from", "git+https://github.com/example/archery-mcp.git",
+        "--from", "git+https://github.com/dennistocker/archery-mcp.git",
         "archery-mcp"
       ],
       "env": {
